@@ -14,7 +14,7 @@
             <ul> 
                 <li><a href="#pyq">SHRI S.B.VALKUNDE SIR</a></li>
                 <li><a href="#MUKESH MURLIDHAR POTDAR">MUKESH MURLIDHAR POTDAR SEP2616042288</a></li>
-                <li><a href="#CH02 Mechanical Properties of Fluids">XII chp 02 Mechanical Properties of Fluids</a></li>
+                <li><a href="#PRASHANT RAJGONDA PATIL">PRASHANTRAJGONDA PATIL APR2616015484</a></li>
                 <li><a href="#CH03 Kinetic Theory OF Gases">XII chp 03 Kinetic Theory OF Gases</a></li>
                 <li><a href="#CH04 Thermodynamics">XII chp 04 Thermodynamics</a></li>
                 <li><a href="#CH05 Oscillation">XII chp 05 Oscillation</a></li>
@@ -58,8 +58,8 @@
                 <li><a href="https://drive.google.com/file/d/1gTH9nVqh5S-xhlCRHwlueW4JIx3kfsG4/view?usp=sharing">PYQ</a></li>
             </ul>
         </section>
-        <section id="CH02 Mechanical Properties of Fluids">
-            <h2>XII CHP 02 Mechanical Properties of Fluids</h2>
+        <section id="PRASHANT RAJGONDA PATIL">
+            <h2>PRASHANTRAJGONDA PATIL APR2616015484</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1gUE9aqP0axqTV5SebLBLSoHH_dsHG1xg/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1fcarcAwhToZ_8MT-Ly9GJMo-8BKOxWSu/view?usp=sharing">Ques Bank With Solution</a></li>
