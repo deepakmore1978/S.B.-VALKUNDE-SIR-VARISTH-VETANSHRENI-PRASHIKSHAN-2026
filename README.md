@@ -15,7 +15,7 @@
                 <li><a href="#pyq">SHRI S.B.VALKUNDE SIR</a></li>
                 <li><a href="#MUKESH MURLIDHAR POTDAR">MUKESH MURLIDHAR POTDAR SEP2616042288</a></li>
                 <li><a href="#PRASHANT RAJGONDA PATIL">PRASHANTRAJGONDA PATIL APR2616015484</a></li>
-                <li><a href="#CH03 Kinetic Theory OF Gases">XII chp 03 Kinetic Theory OF Gases</a></li>
+                <li><a href="#NAJNIN BADRUDDIN MULLA">NAJNIN BADRUDDIN MULLA APR2616021817</a></li>
                 <li><a href="#CH04 Thermodynamics">XII chp 04 Thermodynamics</a></li>
                 <li><a href="#CH05 Oscillation">XII chp 05 Oscillation</a></li>
                 <li><a href="#CH06 Superposition Of Waves">XII chp 06 Superposition Of Waves</a></li>
@@ -67,8 +67,8 @@
                 <li><a href="https://drive.google.com/file/d/12Wp-QKjGA2UQ_Lq04Q7EotbGLiGm9O2M/view?usp=sharing">PYQ</a></li>
             </ul>
         </section>
-        <section id="CH03 Kinetic Theory OF Gases">
-            <h2>XII CHP 03 Kinetic Theory OF Gases</h2>
+        <section id="NAJNIN BADRUDDIN MULLA">
+            <h2>NAJNIN BADRUDDIN MULLA APR2616021817</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1ihhingyi-e02usoPJqC_UH9mkl8bBjfi/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">Ques Bank With Solution</a></li>
