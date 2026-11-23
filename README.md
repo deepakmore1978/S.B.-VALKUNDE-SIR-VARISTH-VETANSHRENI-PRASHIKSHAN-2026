@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1>SHRI S.B.VALKUNE R.Y.HIGHSCHOOL SARVADE</h1>
+    <h1>SHRI S.B.VALKUNDE R.Y.HIGHSCHOOL SARVADE</h1>
     <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -12,7 +12,7 @@
     <header>
         <nav>
             <ul> 
-                <li><a href="#pyq">Previous Question Paper</a></li>
+                <li><a href="#pyq">SHRI S.B.VALKUNDE SIR</a></li>
                 <li><a href="#CH01 Rotational Dynamics">XII chp 01 Rotational Dynamics</a></li>
                 <li><a href="#CH02 Mechanical Properties of Fluids">XII chp 02 Mechanical Properties of Fluids</a></li>
                 <li><a href="#CH03 Kinetic Theory OF Gases">XII chp 03 Kinetic Theory OF Gases</a></li>
@@ -34,7 +34,7 @@
     </header>
     <main>
         <section id="pyq">
-            <h2>Previous Question Paper</h2>
+            <h2>SHRI S.B.VALKUNDE SIR</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1utkHfK7aX7mlvwbvujAk_Ylzmvhg0Tv3/view?usp=sharing">XII Question Bank</a></li>
                 <li><a href="https://drive.google.com/file/d/11elVnPEsITs5qaQQj42WYnajniA-62Vv/view?usp=sharing">Practice Paper 01</a></li>
