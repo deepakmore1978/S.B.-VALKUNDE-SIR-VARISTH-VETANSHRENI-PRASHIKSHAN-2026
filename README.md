@@ -16,8 +16,8 @@
                 <li><a href="#MUKESH MURLIDHAR POTDAR">MUKESH MURLIDHAR POTDAR SEP2616042288</a></li>
                 <li><a href="#PRASHANT RAJGONDA PATIL">PRASHANTRAJGONDA PATIL APR2616015484</a></li>
                 <li><a href="#NAJNIN BADRUDDIN MULLA">NAJNIN BADRUDDIN MULLA APR2616021817</a></li>
-                <li><a href="#CH04 Thermodynamics">XII chp 04 Thermodynamics</a></li>
-                <li><a href="#CH05 Oscillation">XII chp 05 Oscillation</a></li>
+                <li><a href="#VIDHYARANI ABHISHEK JANGAM">VIDHYARANI ABHISHEK JANGAM SEP2616039033</a></li>
+                <li><a href="#KETAKI AMIT KALE">KETAKI AMIT KALE SEP2616041467</a></li>
                 <li><a href="#CH06 Superposition Of Waves">XII chp 06 Superposition Of Waves</a></li>
                 <li><a href="#CH07 Wave Optics">XII chp 07 Wave Optics</a></li>
                 <li><a href="#CH08 Electrostatics">XII chp 08 Electrostatics</a></li>
@@ -76,8 +76,8 @@
                 <li><a href="https://drive.google.com/file/d/1FogmN2mHdSMuttVfgu4f7ATjno5EYuwC/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
-        <section id="CH04 Thermodynamics">
-            <h2>XII CHP 04 Thermodynamics</h2>
+        <section id="VIDHYARANI ABHISHEK JANGAM">
+            <h2>VIDHYARANI ABHISHEK JANGAM SEP2616039033</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1MVLZcZZzsek2oaePzua4rHH7lwMLSvoj/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1b5w8Yno4t6QZoOVYJAplktbvLw5oI9D9/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -85,8 +85,8 @@
                 <li><a href="https://drive.google.com/file/d/1zqXzQ3_A4fhYZCHiA4qzBS1xrCXITH_V/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
-        <section id="CH05 Oscillation">
-            <h2>XII CHP 05 Oscillation</h2>
+        <section id="KETAKI AMIT KALE">
+            <h2>KETAKI AMIT KALE SEP2616041467</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1jGLeTeEJyTJVVQFPxpT-TGMR8h1UJ4yg/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1b51PXyBVzzrlWLszsaLMNWxku4g1RtZr/view?usp=sharing">Ques Bank With Solution</a></li>
