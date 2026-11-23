@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1>VARISTH VETANSHRENI PRASHIKSHAN 2026</h1>
+    <h1>SHRI S.B.VALKUNE R.Y.HIGHSCHOOL SARVADE</h1>
     <link rel="stylesheet" href="styles.css">
 </head>
 
