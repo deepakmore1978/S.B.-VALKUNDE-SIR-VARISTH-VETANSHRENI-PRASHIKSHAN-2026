@@ -13,7 +13,7 @@
         <nav>
             <ul> 
                 <li><a href="#pyq">SHRI S.B.VALKUNDE SIR</a></li>
-                <li><a href="#MUKESH MURLIDHAR POTDAR">XII chp 01 Rotational Dynamics</a></li>
+                <li><a href="#MUKESH MURLIDHAR POTDAR">XII MUKESH MURLIDHAR POTDAR</a></li>
                 <li><a href="#CH02 Mechanical Properties of Fluids">XII chp 02 Mechanical Properties of Fluids</a></li>
                 <li><a href="#CH03 Kinetic Theory OF Gases">XII chp 03 Kinetic Theory OF Gases</a></li>
                 <li><a href="#CH04 Thermodynamics">XII chp 04 Thermodynamics</a></li>
