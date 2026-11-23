@@ -13,7 +13,7 @@
         <nav>
             <ul> 
                 <li><a href="#pyq">SHRI S.B.VALKUNDE SIR</a></li>
-                <li><a href="#MUKESH MURLIDHAR POTDAR">XII MUKESH MURLIDHAR POTDAR</a></li>
+                <li><a href="#MUKESH MURLIDHAR POTDAR">XII MUKESH MURLIDHAR POTDAR SEP2616042288</a></li>
                 <li><a href="#CH02 Mechanical Properties of Fluids">XII chp 02 Mechanical Properties of Fluids</a></li>
                 <li><a href="#CH03 Kinetic Theory OF Gases">XII chp 03 Kinetic Theory OF Gases</a></li>
                 <li><a href="#CH04 Thermodynamics">XII chp 04 Thermodynamics</a></li>
@@ -49,8 +49,8 @@
                 <li><a href="https://drive.google.com/file/d/1qHe_dpVgvYcj9Icz5y5kL3dtxTVQN-M6/view?usp=sharing">Model Ans.Practice Paper 05</a></li>
             </ul>
         </section>
-        <section id="CH01 Rotational Dynamics">
-            <h2>XII CHP 01 Rotational Dynamics</h2>
+        <section id="MUKESH MURLIDHAR POTDAR">
+            <h2>MUKESH MURLIDHAR POTDAR SEP2616042288</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/125M2B2C7vP1iEAbcXJFmcRvbKLgj2Emf/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">Ques Bank With Solution</a></li>
