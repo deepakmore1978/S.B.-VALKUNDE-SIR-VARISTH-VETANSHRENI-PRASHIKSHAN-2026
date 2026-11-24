@@ -30,11 +30,11 @@
         <section id="R.Y.PATIL HIGHSCHOOL, SAVARDE">
             <h2>SHRI S.B.VALKUNDE SIR</h2>
             <ul>
-                <li><a href="https://docs.google.com/presentation/d/1HMIPo2knFSv4TKcNJMN9_rCn3-X86gW7/edit?usp=drive_link&ouid=116323725794489611530&rtpof=true&sd=true">पमुखपृष्ठ </a></li>
-                <li><a href="https://drive.google.com/file/d/181EsPOJ224o0TLNPsF6N5TVhBmEazVVl/view?usp=drive_link">प्रार्थना</a></li>
-                <li><a href="https://docs.google.com/spreadsheets/d/1KrPD23Rm7GXUBFssHT2FWMlqhiUsd5yE/edit?usp=drive_link&ouid=116323725794489611530&rtpof=true&sd=true">सत्कार समारंभ </a></li>
-                <li><a href="https://drive.google.com/file/d/1sCJdfHx5qJC8gGGbVyLv_GLCvlHWfctz/view?usp=drive_link">गोड आठवण</a></li>
-                <li><a href="https://drive.google.com/file/d/1x4MkwdSzWZFuFiOkx0M4P68YUU0DL3Bl/view?usp=drive_link">सारांश</a></li> 
+                <li><a href="https://drive.google.com/file/d/1QwwqSGTku30xrijVkV7RgzgAdg4JVaZ1/view?usp=sharing">पमुखपृष्ठ </a></li>
+                <li><a href="https://drive.google.com/file/d/1h9HafWlOqw6i2OhJAblTAMk4GpRUKCYj/view?usp=sharing">प्रार्थना</a></li>
+                <li><a href="https://drive.google.com/file/d/1M4yrhBM9qZOJ-oZb6s67ahWNesZbqxSP/view?usp=sharing">सत्कार समारंभ </a></li>
+                <li><a href="https://drive.google.com/file/d/1FL7Msk391mVY_ozrb8cPGYlr6BejFHle/view?usp=sharing">गोड आठवण</a></li>
+                <li><a href="https://drive.google.com/file/d/10GYpMiHHjvV95NpO_Teij6rBhwxtVzJW/view?usp=sharing">सारांश</a></li> 
             </ul>
         </section>
         <section id="MUKESH MURLIDHAR POTDAR">
