@@ -12,7 +12,7 @@
     <header>
         <nav>
             <ul> 
-                <li><a href="#pyq">SHRI S.B.VALKUNDE SIR</a></li>
+                <li><a href="#R.Y.PATIL HIGHSCHOOL, SAVARDE">SHRI S.B.VALKUNDE SIR</a></li>
                 <li><a href="#MUKESH MURLIDHAR POTDAR">MUKESH MURLIDHAR POTDAR SEP2616042288</a></li>
                 <li><a href="#PRASHANT RAJGONDA PATIL">PRASHANTRAJGONDA PATIL APR2616015484</a></li>
                 <li><a href="#NAJNIN BADRUDDIN MULLA">NAJNIN BADRUDDIN MULLA APR2616021817</a></li>
@@ -27,7 +27,7 @@
         </nav>
     </header>
     <main>
-        <section id="pyq">
+        <section id="R.Y.PATIL HIGHSCHOOL, SAVARDE">
             <h2>SHRI S.B.VALKUNDE SIR</h2>
             <ul>
                 <li><a href="https://docs.google.com/presentation/d/1HMIPo2knFSv4TKcNJMN9_rCn3-X86gW7/edit?usp=drive_link&ouid=116323725794489611530&rtpof=true&sd=true">पमुखपृष्ठ </a></li>
