@@ -39,11 +39,11 @@
         <section id="MUKESH MURLIDHAR POTDAR">
             <h2>MUKESH MURLIDHAR POTDAR SEP2616042288</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/125M2B2C7vP1iEAbcXJFmcRvbKLgj2Emf/view?usp=sharing">पी. पी. टी. तयार करणे13.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">वर्ड फाईल तयार करणे 15.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/1g6HIMYsmadmdFdLVtAduY0N_7jsd2JVZ/view?usp=sharing">एक्सेल शीट तयार करणे17.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/1gTH9nVqh5S-xhlCRHwlueW4JIx3kfsG4/view?usp=sharing">व्हिडिओ निर्मिती करणे 19.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/1gTH9nVqh5S-xhlCRHwlueW4JIx3kfsG4/view?usp=sharing">कृत्रिम बुद्धिमत्तेचा वापर अचूक फ्रॉम वापरून असे निर्मिती करणे 
+                <li><a href="https://docs.google.com/presentation/d/1CXU36AVb1CeUxBH0N93HRQomwaQT1a8gC7wTr7PXTro/edit?usp=drive_link">पी. पी. टी. तयार करणे13.11.2026</a></li>
+                <li><a href="https://drive.google.com/file/d/1XwCJBXW4H3yg_qNHlCSSSP6sAtZ_ooUt/view?usp=drive_link">वर्ड फाईल तयार करणे 15.11.2026</a></li>
+                <li><a href="https://docs.google.com/spreadsheets/d/1_L7PQRa6eT89hB6atKtzrdXX7yiFEZ_aMsw59b3fLxg/edit?usp=drive_link">एक्सेल शीट तयार करणे17.11.2026</a></li>
+                <li><a href="https://drive.google.com/file/d/1V1J8DS4nZyMjmCIdBUHtAozhawS-DW3t/view?usp=drive_link">व्हिडिओ निर्मिती करणे 19.11.2026</a></li>
+                <li><a href="https://drive.google.com/file/d/1iCnMAg4vwN3-1aWLJ93Gul0pXGXt__qw/view?usp=drive_link">कृत्रिम बुद्धिमत्तेचा वापर अचूक फ्रॉम वापरून असे निर्मिती करणे 
  एक्सेल शीट तयार करणे21.11.2026</a></li>
             </ul>
         </section>
