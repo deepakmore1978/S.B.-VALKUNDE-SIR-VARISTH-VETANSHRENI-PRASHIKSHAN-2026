@@ -20,9 +20,9 @@
                 <li><a href="#KETAKI AMIT KALE">KETAKI AMIT KALE SEP2616041467</a></li>
                 <li><a href="#JYOTI PANDIT KOLI">JYOTI PANDIT KOLISEP2616042404</a></li>
                 <li><a href="#DEEPAK SUBHASHRAO MORE">DEEPAK SUBHASHRAO MORE APR2616027362</a></li>
-                <li><a href="#CH08 Electrostatics">XII chp 08 Electrostatics</a></li>
-                <li><a href="#CH09 Current Electricity">XII chp 09 Current Electricity</a></li>
-                <li><a href="#CH10 Magnetic Fields due to Electric Current">XII chp 10 Magnetic Fields due to Electric Current</a></li>
+                <li><a href="#PRATIBHA SACHINKUMAR BAVACHE">PRATIBHA SACHINKUMAR BAVACHESEP2616041348</a></li>
+                <li><a href="#RAMGONDA RAVASO PATIL">RAMGONDA RAVASO PATIL APR2616006423</a></li>
+                <li><a href="#SUNANDA MARUTI ARGE">SUNANDA MARUTI ARGE SEP2616044709</a></li>
                 <li><a href="#CH11 Magnetic Material">XII chp 11 Magnetic Material</a></li>
                 <li><a href="#CH12 Electromagnetic Induction">XII chp 12 Electromagnetic Induction</a></li>
                 <li><a href="#CH13 AC circuits">XII chp 13 AC circuits</a></li>
@@ -112,8 +112,8 @@
                 <li><a href="https://drive.google.com/file/d/1r3R1CPvV8QHpYzIxGUSB6itAY-pRI1nD/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
-        <section id="CH08 Electrostatics">
-            <h2>XII CHP 08 Electrostatics</h2>
+        <section id="PRATIBHA SACHINKUMAR BAVACHE">
+            <h2>PRATIBHA SACHINKUMAR BAVACHESEP2616041348</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1FuvvocQIWsWsuNE8qsOZ0wAlzY7Rcuvd/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1Ue1hcZAA8P_K7eTqDxtS91rOAT12eFr2/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -121,8 +121,8 @@
                 <li><a href="https://drive.google.com/file/d/1O1u4JY5apkaKTDSCoa3J-iyKeVu2d0q9/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
-        <section id="CH09 Current Electricity">
-            <h2>XII CHP 09 Current Electricity</h2>
+        <section id="RAMGONDA RAVASO PATIL">
+            <h2>RAMGONDA RAVASO PATIL APR2616006423</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1gaXthr7QG-cq0ezLFlOQWnrs_I99wpHZ/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/14JxhvzrUYYRYwHmeKhyiQSIf-OnET5iJ/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -130,8 +130,8 @@
                 <li><a href="https://drive.google.com/file/d/12TwC_DszmAzQUN_nP_uw9D0t-jh_ATJC/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
-        <section id="CH10 Magnetic Fields due to Electric Current">
-            <h2>XII CHP 10 Magnetic Fields due to Electric Current</h2>
+        <section id="SUNANDA MARUTI ARGE">
+            <h2>SUNANDA MARUTI ARGE SEP2616044709</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1qtAH3u8qd_Yk2_j_Pe8oz__7tPV3N9NM/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1ZM-RDF3e1PwuwueyIgHo3lzMIZQQ6Wy0/view?usp=sharing">Ques Bank With Solution</a></li>
