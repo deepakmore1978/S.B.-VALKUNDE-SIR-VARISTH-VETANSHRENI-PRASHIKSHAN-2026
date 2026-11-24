@@ -116,33 +116,33 @@
         <section id="PRATIBHA SACHINKUMAR BAVACHE">
             <h2>PRATIBHA SACHINKUMAR BAVACHESEP2616041348</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/125M2B2C7vP1iEAbcXJFmcRvbKLgj2Emf/view?usp=sharing">पी. पी. टी. तयार करणे13.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">वर्ड फाईल तयार करणे 15.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/1g6HIMYsmadmdFdLVtAduY0N_7jsd2JVZ/view?usp=sharing">एक्सेल शीट तयार करणे17.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/1gTH9nVqh5S-xhlCRHwlueW4JIx3kfsG4/view?usp=sharing">व्हिडिओ निर्मिती करणे 19.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/1gTH9nVqh5S-xhlCRHwlueW4JIx3kfsG4/view?usp=sharing">कृत्रिम बुद्धिमत्तेचा वापर अचूक फ्रॉम वापरून असे निर्मिती करणे 
+                <li><a href="https://docs.google.com/presentation/d/12vhOlnbXulEFBWey41ijFIXOr9T6lTJr0jQqGnG9SJQ/edit?usp=drive_link">पी. पी. टी. तयार करणे13.11.2026</a></li>
+                <li><a href="https://drive.google.com/file/d/1283GOlnoyF3jfW7pzlv2SvanCHGYKhLy/view?usp=drive_link">वर्ड फाईल तयार करणे 15.11.2026</a></li>
+                <li><a href="https://docs.google.com/spreadsheets/d/1-WgRkGOVYsShwmHy9beUd-IjyyL8llh-/edit?usp=drive_link&ouid=116323725794489611530&rtpof=true&sd=true">एक्सेल शीट तयार करणे17.11.2026</a></li>
+                <li><a href="https://drive.google.com/file/d/17fssIYQ9hCRqIzW-i9dalxCAsnC3Fh47/view?usp=drive_link">व्हिडिओ निर्मिती करणे 19.11.2026</a></li>
+                <li><a href="https://drive.google.com/file/d/1oQkJA7tMg12B_OUA7j6KXQ2rrv5-khK7/view?usp=drive_link">कृत्रिम बुद्धिमत्तेचा वापर अचूक फ्रॉम वापरून असे निर्मिती करणे 
  एक्सेल शीट तयार करणे21.11.2026</a></li>
            </ul>
         </section>
         <section id="RAMGONDA RAVASO PATIL">
             <h2>RAMGONDA RAVASO PATIL APR2616006423</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/125M2B2C7vP1iEAbcXJFmcRvbKLgj2Emf/view?usp=sharing">पी. पी. टी. तयार करणे13.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">वर्ड फाईल तयार करणे 15.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/1g6HIMYsmadmdFdLVtAduY0N_7jsd2JVZ/view?usp=sharing">एक्सेल शीट तयार करणे17.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/1gTH9nVqh5S-xhlCRHwlueW4JIx3kfsG4/view?usp=sharing">व्हिडिओ निर्मिती करणे 19.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/1gTH9nVqh5S-xhlCRHwlueW4JIx3kfsG4/view?usp=sharing">कृत्रिम बुद्धिमत्तेचा वापर अचूक फ्रॉम वापरून असे निर्मिती करणे 
+                <li><a href="https://docs.google.com/presentation/d/1frPVRJLTUI2NpbqD4Bu1VPJGq-tdMjom/edit?usp=drive_link&ouid=116323725794489611530&rtpof=true&sd=true">पी. पी. टी. तयार करणे13.11.2026</a></li>
+                <li><a href="https://drive.google.com/file/d/1NsyiTs7md8SFghHccNnEcUNNiS_fA-Rb/view?usp=drive_link">वर्ड फाईल तयार करणे 15.11.2026</a></li>
+                <li><a href="https://docs.google.com/spreadsheets/d/11oVOJaSowyAZ2iZoXNfeFUWJNA5441Ci/edit?usp=drive_link&ouid=116323725794489611530&rtpof=true&sd=true">एक्सेल शीट तयार करणे17.11.2026</a></li>
+                <li><a href="https://drive.google.com/file/d/1vrnAGKn8j2J0fHZN-Ivo1zh5QGjDpjAV/view?usp=drive_link">व्हिडिओ निर्मिती करणे 19.11.2026</a></li>
+                <li><a href="https://drive.google.com/file/d/1kp_y36zBmfd9CeoCUGmW1ArfBxFr09fT/view?usp=drive_link">कृत्रिम बुद्धिमत्तेचा वापर अचूक फ्रॉम वापरून असे निर्मिती करणे 
  एक्सेल शीट तयार करणे21.11.2026</a></li>
            </ul>
         </section>
         <section id="SUNANDA MARUTI ARGE">
             <h2>SUNANDA MARUTI ARGE SEP2616044709</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/125M2B2C7vP1iEAbcXJFmcRvbKLgj2Emf/view?usp=sharing">पी. पी. टी. तयार करणे13.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">वर्ड फाईल तयार करणे 15.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/1g6HIMYsmadmdFdLVtAduY0N_7jsd2JVZ/view?usp=sharing">एक्सेल शीट तयार करणे17.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/1gTH9nVqh5S-xhlCRHwlueW4JIx3kfsG4/view?usp=sharing">व्हिडिओ निर्मिती करणे 19.11.2026</a></li>
-                <li><a href="https://drive.google.com/file/d/1gTH9nVqh5S-xhlCRHwlueW4JIx3kfsG4/view?usp=sharing">कृत्रिम बुद्धिमत्तेचा वापर अचूक फ्रॉम वापरून असे निर्मिती करणे 
+                <li><a href="https://docs.google.com/presentation/d/1QQl08XZiAomiD5yxCni9eqnkeWzYRqiI/edit?usp=drive_link&ouid=116323725794489611530&rtpof=true&sd=true">पी. पी. टी. तयार करणे13.11.2026</a></li>
+                <li><a href="https://drive.google.com/file/d/1lVgTGjL8Uuq9P0eAw0lpQbKU4h1-ItDE/view?usp=drive_link">वर्ड फाईल तयार करणे 15.11.2026</a></li>
+                <li><a href="https://docs.google.com/spreadsheets/d/1N6ypcl6t3TuSsPlP-7Qt8fVYXx-VkvTZ/edit?usp=drive_link&ouid=116323725794489611530&rtpof=true&sd=true">एक्सेल शीट तयार करणे17.11.2026</a></li>
+                <li><a href="https://drive.google.com/file/d/1a6IC1dhVSH0sZXs0Jq7QFoJSyZvQXqUB/view?usp=drive_link">व्हिडिओ निर्मिती करणे 19.11.2026</a></li>
+                <li><a href="https://drive.google.com/file/d/1HMtdtqWewXouKBW1DrJRyRBEEDHvItDI/view?usp=drive_link">कृत्रिम बुद्धिमत्तेचा वापर अचूक फ्रॉम वापरून असे निर्मिती करणे 
  एक्सेल शीट तयार करणे21.11.2026</a></li>
            </ul>
         </section>
