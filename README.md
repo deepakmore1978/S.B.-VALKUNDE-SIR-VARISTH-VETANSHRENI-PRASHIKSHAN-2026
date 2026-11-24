@@ -18,8 +18,8 @@
                 <li><a href="#NAJNIN BADRUDDIN MULLA">NAJNIN BADRUDDIN MULLA APR2616021817</a></li>
                 <li><a href="#VIDHYARANI ABHISHEK JANGAM">VIDHYARANI ABHISHEK JANGAM SEP2616039033</a></li>
                 <li><a href="#KETAKI AMIT KALE">KETAKI AMIT KALE SEP2616041467</a></li>
-                <li><a href="#CH06 Superposition Of Waves">XII chp 06 Superposition Of Waves</a></li>
-                <li><a href="#CH07 Wave Optics">XII chp 07 Wave Optics</a></li>
+                <li><a href="#JYOTI PANDIT KOLI">JYOTI PANDIT KOLISEP2616042404</a></li>
+                <li><a href="#DEEPAK SUBHASHRAO MORE">DEEPAK SUBHASHRAO MORE APR2616027362</a></li>
                 <li><a href="#CH08 Electrostatics">XII chp 08 Electrostatics</a></li>
                 <li><a href="#CH09 Current Electricity">XII chp 09 Current Electricity</a></li>
                 <li><a href="#CH10 Magnetic Fields due to Electric Current">XII chp 10 Magnetic Fields due to Electric Current</a></li>
@@ -94,8 +94,8 @@
                 <li><a href="https://drive.google.com/file/d/1RWD5WJ-wtD7zZN14g5ufv7Cki2wWp-MS/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
-        <section id="CH06 Superposition Of Waves">
-            <h2>XII CHP 06 Superposition Of Waves</h2>
+        <section id="JYOTI PANDIT KOLI">
+            <h2>JYOTI PANDIT KOLISEP2616042404</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1urBHPSgONsYETpdKX3l-taF-z9UX6u7C/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/12LBBr1hNx9FcPLnwW87n3wqWDXeX7NaO/view?usp=sharing">Ques Bank With Solution</a></li>
@@ -103,8 +103,8 @@
                 <li><a href="https://drive.google.com/file/d/15mpcp76LqKJNvY0idqrduzbtOhB67wxi/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
-        <section id="CH07 Wave Optics">
-            <h2>XII CHP 07 Wave Optics</h2>
+        <section id="DEEPAK SUBHASHRAO MORE">
+            <h2>DEEPAK SUBHASHRAO MORE APR2616027362</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1TOU-Mshp-5PPjodj-Q3LiW4Vf-GroDj9/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1vf9Saly9jLd4wlUrIBPUSeR_kHCMojl7/view?usp=sharing">Ques Bank With Solution</a></li>
